@@ -27,7 +27,8 @@ The Process is as follows -
 - Class distribution
 - Handling class imbalances
 - Model Building & training on the rectified class imbalance data
-- The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
+
+  The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,15 +43,9 @@ The Process is as follows -
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@GaneshSK] - feel free to contact me!
 
 
 <!-- Optional -->
